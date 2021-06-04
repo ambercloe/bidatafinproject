@@ -33,3 +33,6 @@ You can print citation and version information with the function mp_cite().Note 
 > mp_corpus(english_annotated)
 > english_mp <- mp_corpus(english_annotated)
 > write.csv(english_mp, file = "english_mp.csv")
+
+
+# Code source/ package: Greene, Z. (2016). Competing on the issues: How experience in government and economic conditions influence the scope of parties’ policy messages. Party Politics, 22(6), 809–822. 
